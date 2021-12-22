@@ -1,0 +1,5 @@
+Le questionnaire a été diffusé via un lien avec LimeSurvey. Nous avons exporté les questions sous plusieurs formes, qui restituent des aspects différents du questionnaire.
+
+- Questionnaire_VersionVisuellePapier présente la mise en forme des questions proche de celle que les répondant avaient. Il s'agit d'un export LimeSurvey
+- Questionnaire_VersionColonnes présente la manière dont est structuré le tableur de résultat
+- Questionnaire_VersionConditions présente en plus les conditions d'affichage de chaque question mais est relativement difficile à lire. 
